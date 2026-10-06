@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "my-server": {
+      "type": "http",
+      "url": "https://86.77.148.132.host.secureserver.net/mcp"
+    }
+  }
+}
