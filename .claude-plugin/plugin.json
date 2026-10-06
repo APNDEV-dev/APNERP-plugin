@@ -9,6 +9,7 @@
   "homepage": "https://github.com/APNDEV-dev/APNERP-plugin",
   "repository": "https://github.com/APNDEV-dev/APNERP-plugin",
   "license": "MIT",
-  "icon": "./.claude-plugin/APN.png",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://86.77.148.132.host.secureserver.net/privacy.html",
   "mcpServers": "./.mcp.json"
 }
