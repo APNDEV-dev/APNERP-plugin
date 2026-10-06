@@ -1,0 +1,11 @@
+{
+  "name": "my-marketplace",
+  "owner": { "name": "Your Name" },
+  "plugins": [
+    {
+      "name": "my-plugin",
+      "source": "./",
+      "description": "Plugin that connects to my MCP server"
+    }
+  ]
+}
