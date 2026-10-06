@@ -1,6 +1,13 @@
 {
-  "name": "my-plugin",
+  "name": "apn-erp",
+  "displayName": "APN ERP",
   "version": "1.0.0",
-  "description": "Plugin that connects to my MCP server",
+  "description": "Connects Claude to the APN ERP MCP server",
+  "author": {
+    "name": "APNDEV-dev"
+  },
+  "homepage": "https://github.com/APNDEV-dev/APNERP-plugin",
+  "repository": "https://github.com/APNDEV-dev/APNERP-plugin",
+  "license": "MIT",
   "mcpServers": "./.mcp.json"
 }
