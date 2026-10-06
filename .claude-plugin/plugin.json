@@ -1,0 +1,6 @@
+{
+  "name": "my-plugin",
+  "version": "1.0.0",
+  "description": "Plugin that connects to my MCP server",
+  "mcpServers": "./.mcp.json"
+}
