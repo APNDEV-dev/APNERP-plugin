@@ -1,11 +1,13 @@
 {
-  "name": "my-marketplace",
-  "owner": { "name": "Your Name" },
+  "name": "apn-erp-marketplace",
+  "owner": {
+    "name": "APNDEV-dev"
+  },
   "plugins": [
     {
-      "name": "my-plugin",
+      "name": "apn-erp",
       "source": "./",
-      "description": "Plugin that connects to my MCP server"
+      "description": "Connect Claude to the APN ERP MCP server."
     }
   ]
 }
